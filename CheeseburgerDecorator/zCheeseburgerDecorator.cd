@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CheeseburgerDecorator.Cheeseburger">
+    <Position X="5.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cheeseburger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheeseburgerDecorator.SandwichDecorator">
+    <Position X="8.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAgAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SandwichDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheeseburgerDecorator.Corn">
+    <Position X="6" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Corn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheeseburgerDecorator.OnionRings">
+    <Position X="8.25" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OnionRings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheeseburgerDecorator.PepperSauce">
+    <Position X="10.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PepperSauce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheeseburgerDecorator.Sandwich">
+    <Position X="7" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sandwich.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeseburgerInheritance", "CheeseburgerInheritance\CheeseburgerInheritance.csproj", "{77F7FDA3-7897-4967-A07D-C80A0A114171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeseburgerTests", "CheeseburgerTests\CheeseburgerTests.csproj", "{D67E5E8D-F471-414D-85B7-3871D1CE723B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3EA17CAE-93EB-49DA-A30F-8C871E5D1FE2}"
+	ProjectSection(SolutionItems) = preProject
+		Cheeseburgers.vsmdi = Cheeseburgers.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeseburgerComposition", "CheeseburgerComposition\CheeseburgerComposition.csproj", "{2AB7FC9C-AA9B-4066-9F51-01B06467680F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeseburgerDecorator", "CheeseburgerDecorator\CheeseburgerDecorator.csproj", "{658A326B-5107-4519-B788-32A860370C2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{64824B6F-36E4-43BB-B618-6A7BD2E4695A}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Cheeseburgers.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F7FDA3-7897-4967-A07D-C80A0A114171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F7FDA3-7897-4967-A07D-C80A0A114171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F7FDA3-7897-4967-A07D-C80A0A114171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F7FDA3-7897-4967-A07D-C80A0A114171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67E5E8D-F471-414D-85B7-3871D1CE723B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67E5E8D-F471-414D-85B7-3871D1CE723B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67E5E8D-F471-414D-85B7-3871D1CE723B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67E5E8D-F471-414D-85B7-3871D1CE723B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB7FC9C-AA9B-4066-9F51-01B06467680F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB7FC9C-AA9B-4066-9F51-01B06467680F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB7FC9C-AA9B-4066-9F51-01B06467680F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB7FC9C-AA9B-4066-9F51-01B06467680F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658A326B-5107-4519-B788-32A860370C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658A326B-5107-4519-B788-32A860370C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658A326B-5107-4519-B788-32A860370C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658A326B-5107-4519-B788-32A860370C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64824B6F-36E4-43BB-B618-6A7BD2E4695A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64824B6F-36E4-43BB-B618-6A7BD2E4695A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64824B6F-36E4-43BB-B618-6A7BD2E4695A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64824B6F-36E4-43BB-B618-6A7BD2E4695A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

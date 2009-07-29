@@ -1,0 +1,18 @@
+----------------------------------
+Cheeseburgers, Decorators e Mocks
+----------------------------------
+
+Código do artigo "Cheeseburgers, Decorators e Mocks" que mostra um exemplo prático de utilização do Design Pattern Decorator, que começa com um design usando herança, desaclopa usando composição e finalmente aplica Decorator. 
+http://prodis.pro.br/2009/07/29/cheeseburgers-decorators-e-mocks
+
+O código foi escrito no Visual Studio 2008 usando como plataforma .NET, linguagem C#, a ferramenta de testes unitários que vem com o Visual Studio 2008 e o Rhino Mocks como framework de criação de mocks.
+
+Para visualizar, basta abrir o arquivo Cheeseburgers.sln no Visual Studio 2008.
+
+
+----------------------------------
+Autoria
+----------------------------------
+
+Prodis a.k.a. Fernando Hamasaki de Amorim
+http://prodis.pro.br
